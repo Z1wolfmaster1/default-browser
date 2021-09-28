@@ -1,6 +1,6 @@
 # Default Browser
 
-I really like the Edge browser, and I recently installed the Dev version to use while I'm coding.However it annoyed me that every link I opened went to the normal version. So I created this script to help me switch the default browser faster.
+I really like the Edge browser, and I recently installed the Dev version to use while I'm coding. However it annoyed me that every link I opened went to the normal version. So I created this script to help me switch the default browser faster.
 
 ## SetUserFTA
 
