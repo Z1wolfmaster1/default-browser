@@ -17,6 +17,7 @@ function Enable-Dev {
     Invoke-Expression ("$exePath .svg MSEdgeDHTML")
     Invoke-Expression ("$exePath .html MSEdgeDHTML")
     Invoke-Expression ("$exePath read MSEdgeDHTML")
+    Invoke-Expression ("$exePath .pdf MSEdgeDPDF")
 }
 
 function Disable-Dev {
@@ -28,6 +29,7 @@ function Disable-Dev {
     Invoke-Expression ("$exePath .svg MSEdgeHTM")
     Invoke-Expression ("$exePath .html MSEdgeHTM")
     Invoke-Expression ("$exePath read MSEdgeHTM")
+    Invoke-Expression ("$exePath .pdf MSEdgePDF")
 }
 
 if($param.Equals("off")) {
